@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #3498db; /* Blue background color */
+  }
+  .container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  h1 {
+    text-align: center;
+    color: #fff; /* White text color */
+  }
+  form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  table {
+    width: 100%;
+  }
+  table tr {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  table label, table input {
+    flex: 1;
+  }
